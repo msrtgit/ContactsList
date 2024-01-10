@@ -1,0 +1,6 @@
+.contactsListTable {
+  margin: 0 auto;
+}
+.contactsListTable tr td {
+  text-align: center;
+}
